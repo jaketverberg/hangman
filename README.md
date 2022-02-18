@@ -2,7 +2,7 @@
 
 Created as part of The Odin Project curriculum.
 
-View on [Repl.it](https://repl.it/@andrewjh271/hangman)
+View on [Repl.it](https://replit.com/@JakeTverberg/odinrubyhangmanproject-1#.replit)
 
 ### Functionality
 
